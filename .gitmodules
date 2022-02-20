@@ -7,3 +7,6 @@
 [submodule "geneticAlgo"]
 	path = geneticAlgo
 	url = https://github.com/melicheradam/geneticAlgo
+[submodule "pizzadefense-javascript"]
+	path = pizzadefense-javascript
+	url = https://github.com/melicheradam/pizzadefense-javascript
