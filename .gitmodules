@@ -1,3 +1,6 @@
 [submodule "8game-solver"]
 	path = 8game-solver
 	url = https://github.com/melicheradam/8game-solver
+[submodule "clusteringAlgos"]
+	path = clusteringAlgos
+	url = https://github.com/melicheradam/clusteringAlgos
