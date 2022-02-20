@@ -4,3 +4,6 @@
 [submodule "clusteringAlgos"]
 	path = clusteringAlgos
 	url = https://github.com/melicheradam/clusteringAlgos
+[submodule "geneticAlgo"]
+	path = geneticAlgo
+	url = https://github.com/melicheradam/geneticAlgo
