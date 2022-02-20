@@ -1,0 +1,3 @@
+[submodule "8game-solver"]
+	path = 8game-solver
+	url = https://github.com/melicheradam/8game-solver
