@@ -10,3 +10,9 @@
 [submodule "pizzadefense-javascript"]
 	path = pizzadefense-javascript
 	url = https://github.com/melicheradam/pizzadefense-javascript
+[submodule "saliency-prediction"]
+	path = saliency-prediction
+	url = https://github.com/melicheradam/saliency-prediction
+[submodule "vpwa-quasar"]
+	path = vpwa-quasar
+	url = https://github.com/melicheradam/vpwa-quasar
